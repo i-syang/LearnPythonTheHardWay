@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: f.lux indicator applet
+Version: 1.1.11~pre
+Summary: f.lux indicator applet - better lighting for your computer
+Home-page: http://www.stereopsis.com/flux/
+Author: Kilian Valkhof, Michael and Lorna Herf, Josh Winters
+Author-email: kilian@kilianvalkhof.com
+License: MIT license
+Description: f.lux indicator applet is an indicator applet to
+            control xflux, an application that makes the color of your computer's
+            display adapt to the time of day, warm at nights and like sunlight during
+            the day
+Platform: UNKNOWN
